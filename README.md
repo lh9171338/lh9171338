@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lh9171338&show_icons=true)
+
+🎓 **Education** 
+    
+ - B.Eng. in Electronic Information School, Wuhan University (2015-2019)
+ - M.S in Electronic Information School, Wuhan University (2019-2022)
+
+📫 **Contact**: lihao2015@whu.edu.cn
